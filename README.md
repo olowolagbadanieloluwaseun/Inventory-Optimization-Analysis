@@ -39,8 +39,5 @@ This project focuses on **Inventory Optimization Analysis**, aimed at deriving a
 
 ## 📂 Dataset
 
-The dataset used for this project will be provided for practice and reproducibility.
-
-> 📌 *Dataset link will be added here*
 
 ---

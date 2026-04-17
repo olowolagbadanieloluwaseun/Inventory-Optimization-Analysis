@@ -190,3 +190,8 @@ The interactive dashboard (built in Metabase) provides insights into:
 - Category Performance
 - Supplier Contribution
 - Warehouse Distribution
+
+<img width="1341" height="646" alt="Dashboard" src="https://github.com/user-attachments/assets/2c8e3107-9c2e-4bd0-8bda-94c615126330" />
+
+## 📎 Dataset
+[inventory_data.csv](https://github.com/user-attachments/files/26839504/inventory_data.csv)

@@ -191,5 +191,11 @@ The interactive dashboard (built in Metabase) provides insights into:
 
 <img width="1341" height="646" alt="Dashboard" src="https://github.com/user-attachments/assets/2c8e3107-9c2e-4bd0-8bda-94c615126330" />
 
+## 📃 Business Impact
+- Stockout prevention
+- Better replenishment prioritization
+- Reduced working capital tied up in excess stock
+- Category-level visibility for inventory planning
+
 ## 📎 Dataset
 [inventory_data.csv](https://github.com/user-attachments/files/26839504/inventory_data.csv)

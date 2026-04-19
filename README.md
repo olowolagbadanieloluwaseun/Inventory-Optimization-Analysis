@@ -6,9 +6,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes inventory data to uncover inefficiencies in stock management, identify risks, and provide actionable recommendations to improve supply chain performance.
-
-Rather than focusing only on totals, the analysis explores how inventory is distributed, how it aligns with demand, and where capital is either at risk or underutilized.
+This project analyzes inventory risk for a building and hardware supply company using MySQL and Metabase. I evaluated 3,000 products worth ₦187.4M, identified 429 low-stock items, and found that 59.7% of products were overstocked. The goal was to highlight stockout risk, excess capital lock-up, and replenishment priorities.
 
 ---
 
